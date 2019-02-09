@@ -13,9 +13,9 @@ This is a VERY rough example. Its purpose is to show conceptually how you can ru
 
 ## What you need installed
 - Windows 10 WITH [Linux subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-- [Docker] (https://www.docker.com/get-started)
-- [Fn CLI] (https://github.com/fnproject/fn)
-- [.NET Core 2.2] (https://dotnet.microsoft.com/download)
+- [Docker](https://www.docker.com/get-started)
+- [Fn CLI](https://github.com/fnproject/fn)
+- [.NET Core 2.2](https://dotnet.microsoft.com/download)
 
 ## Get things up and running
 
@@ -39,4 +39,4 @@ You can do it with `echo "some text to test" | fn invoke dontet spam`
 
 This should invoke the function and show you the output in the console.
 
-If you have suggestions or questions, don't hesitate to contact me here in GitHub or in the [Fn Slack] (http://slack.fnproject.io/)
+If you have suggestions or questions, don't hesitate to contact me here in GitHub or in the [Fn Slack](http://slack.fnproject.io/)
